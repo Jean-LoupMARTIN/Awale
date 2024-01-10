@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wood
+  - Glass
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - TokenContainerPointer
+  - TokenContainer1
+  - TokenContainer2
+  - TokenContainer3
+  - TokenContainer4
+  - TokenContainer5
+  - TokenContainer6
+  - TokenContainer7
+  - TokenContainer8
+  - TokenContainer9
+  - TokenContainer10
+  - TokenContainer11
+  - TokenContainer12
+  - Token1
+  - Token2
+  - Token3
+  - Token4
+  - Token5
+  - Token6
+  - Token7
+  - Token8
+  - Token9
+  - Token10
+  - Token11
+  - Token12
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
